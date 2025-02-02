@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Foji.
 
-<!--
-**fojilunhussain/fojilunhussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+I'm a full-stack dev who likes to write code on Debian. The aim of my personal projects is to capture the way technology intersects with creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to explore human expression and understanding.
+
+### What I do
+
+- *Currently working on* ... translating sign language into text, using a camera.
+- *Currently learning* ... C++ with Qt.
+- *How to reach me* ... [LinkedIn](https://www.linkedin.com/in/fojilun-hussain/)
+- *Let's talk about* ... books! They were my first love and I still haven't gotten over them.
+- *Fun fact* ... snails make wonderful pets. 🖤🐌🖤
