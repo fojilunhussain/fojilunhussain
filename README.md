@@ -11,6 +11,6 @@ I like to explore human expression and understanding.
 - *Currently working on* ... translating sign language into text, using a camera.
 - *Currently learning* ... C++ with Qt.
 - *How to reach me* ... [LinkedIn](https://www.linkedin.com/in/fojilun-hussain/)
-- *Where to find my art* ... [Instagram](https://www.instagram.com/al.murtad) and [Newggrounds](https://almurtad.newgrounds.com/)
+- *Where to find my art* ... [Instagram](https://www.instagram.com/al.murtad) and [Newgrounds](https://almurtad.newgrounds.com/)
 - *Let's talk about* ... books! They were my first love and I still haven't gotten over them.
 - *Fun fact* ... snails make wonderful pets. 🖤🐌🖤
